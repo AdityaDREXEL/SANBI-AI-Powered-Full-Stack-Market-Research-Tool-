@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+strawberry-graphql[fastapi]
+python-dotenv
+httpx
+beautifulsoup4
+lxml
+google-generativeai
